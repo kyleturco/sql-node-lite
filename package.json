@@ -1,0 +1,22 @@
+{
+  "name": "sql-node-lite",
+  "version": "1.0.0",
+  "description": "In class Node.js/SQL project created at Nashville Software School",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleturco/sql-node-lite.git"
+  },
+  "author": "Kyle Turco <kyleturco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyleturco/sql-node-lite/issues"
+  },
+  "homepage": "https://github.com/kyleturco/sql-node-lite#readme",
+  "dependencies": {
+    "sqlite3": "^3.0.10"
+  }
+}
